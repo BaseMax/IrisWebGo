@@ -14,4 +14,6 @@ import (
 	"github.com/gorilla/securecookie"
 )
 
-// main
+func main() {
+	
+}
